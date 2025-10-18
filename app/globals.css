@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  @apply bg-zinc-200 text-black;
+}
+
+.fullflex {
+  @apply w-full h-full flex items-center justify-center;
+}
