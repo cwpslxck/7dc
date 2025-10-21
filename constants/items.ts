@@ -4,13 +4,13 @@ export const MENU_ITEMS = [
     href: "https://cwpslxck.ir",
   },
   {
-    title: "پروژه شماره 1",
+    title: "ساندکلود کاور دانلودر",
     href: "/1",
   },
-  // {
-  //   title: "روز شماره 2",
-  //   href: "/2",
-  // },
+  {
+    title: "یوزرنیم چکر",
+    href: "/2",
+  },
   // {
   //   title: "روز شماره 3",
   //   href: "/3",
